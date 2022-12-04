@@ -15,7 +15,7 @@ public class ScannerExample {
 		String strY = scanner.nextLine();
 		int y = Integer.parseInt(strY);
 		
-		int result = $x + y;
+		int result = x + y;
 		System.out.println("x + y: " + result);
 		System.out.println();
 		
